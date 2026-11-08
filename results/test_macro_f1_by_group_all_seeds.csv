@@ -1,0 +1,601 @@
+model,features,seed,outcome,group,macro_f1
+Logistic regression,demographic,0,depressive,White,0.2872952197598488
+Logistic regression,demographic,0,depressive,Latino,0.3347288847758296
+Logistic regression,demographic,0,depressive,Black,0.3689934694234152
+Logistic regression,demographic,0,depressive,Asian,0.3190889260471119
+Logistic regression,demographic,0,anxiety,White,0.2664211242642615
+Logistic regression,demographic,0,anxiety,Latino,0.33205653152624137
+Logistic regression,demographic,0,anxiety,Black,0.349803339795715
+Logistic regression,demographic,0,anxiety,Asian,0.32941104053806675
+Logistic regression,demographic,0,uncertainty,White,0.2747255648567996
+Logistic regression,demographic,0,uncertainty,Latino,0.3376623725293988
+Logistic regression,demographic,0,uncertainty,Black,0.34159580397016875
+Logistic regression,demographic,0,uncertainty,Asian,0.3316344435640515
+Logistic regression,demographic,1,depressive,White,0.2872952197598488
+Logistic regression,demographic,1,depressive,Latino,0.3347288847758296
+Logistic regression,demographic,1,depressive,Black,0.3689934694234152
+Logistic regression,demographic,1,depressive,Asian,0.3190889260471119
+Logistic regression,demographic,1,anxiety,White,0.2664211242642615
+Logistic regression,demographic,1,anxiety,Latino,0.33205653152624137
+Logistic regression,demographic,1,anxiety,Black,0.349803339795715
+Logistic regression,demographic,1,anxiety,Asian,0.32941104053806675
+Logistic regression,demographic,1,uncertainty,White,0.2747255648567996
+Logistic regression,demographic,1,uncertainty,Latino,0.3376623725293988
+Logistic regression,demographic,1,uncertainty,Black,0.34159580397016875
+Logistic regression,demographic,1,uncertainty,Asian,0.3316344435640515
+Logistic regression,demographic,2,depressive,White,0.2872952197598488
+Logistic regression,demographic,2,depressive,Latino,0.3347288847758296
+Logistic regression,demographic,2,depressive,Black,0.3689934694234152
+Logistic regression,demographic,2,depressive,Asian,0.3190889260471119
+Logistic regression,demographic,2,anxiety,White,0.2664211242642615
+Logistic regression,demographic,2,anxiety,Latino,0.33205653152624137
+Logistic regression,demographic,2,anxiety,Black,0.349803339795715
+Logistic regression,demographic,2,anxiety,Asian,0.32941104053806675
+Logistic regression,demographic,2,uncertainty,White,0.2747255648567996
+Logistic regression,demographic,2,uncertainty,Latino,0.3376623725293988
+Logistic regression,demographic,2,uncertainty,Black,0.34159580397016875
+Logistic regression,demographic,2,uncertainty,Asian,0.3316344435640515
+Logistic regression,demographic,3,depressive,White,0.2872952197598488
+Logistic regression,demographic,3,depressive,Latino,0.3347288847758296
+Logistic regression,demographic,3,depressive,Black,0.3689934694234152
+Logistic regression,demographic,3,depressive,Asian,0.3190889260471119
+Logistic regression,demographic,3,anxiety,White,0.2664211242642615
+Logistic regression,demographic,3,anxiety,Latino,0.33205653152624137
+Logistic regression,demographic,3,anxiety,Black,0.349803339795715
+Logistic regression,demographic,3,anxiety,Asian,0.32941104053806675
+Logistic regression,demographic,3,uncertainty,White,0.2747255648567996
+Logistic regression,demographic,3,uncertainty,Latino,0.3376623725293988
+Logistic regression,demographic,3,uncertainty,Black,0.34159580397016875
+Logistic regression,demographic,3,uncertainty,Asian,0.3316344435640515
+Logistic regression,demographic,4,depressive,White,0.2872952197598488
+Logistic regression,demographic,4,depressive,Latino,0.3347288847758296
+Logistic regression,demographic,4,depressive,Black,0.3689934694234152
+Logistic regression,demographic,4,depressive,Asian,0.3190889260471119
+Logistic regression,demographic,4,anxiety,White,0.2664211242642615
+Logistic regression,demographic,4,anxiety,Latino,0.33205653152624137
+Logistic regression,demographic,4,anxiety,Black,0.349803339795715
+Logistic regression,demographic,4,anxiety,Asian,0.32941104053806675
+Logistic regression,demographic,4,uncertainty,White,0.2747255648567996
+Logistic regression,demographic,4,uncertainty,Latino,0.3376623725293988
+Logistic regression,demographic,4,uncertainty,Black,0.34159580397016875
+Logistic regression,demographic,4,uncertainty,Asian,0.3316344435640515
+Random forest,demographic,0,depressive,White,0.3194588204437517
+Random forest,demographic,0,depressive,Latino,0.3002036526387535
+Random forest,demographic,0,depressive,Black,0.3804235504149148
+Random forest,demographic,0,depressive,Asian,0.3787650565661409
+Random forest,demographic,0,anxiety,White,0.3048128706617121
+Random forest,demographic,0,anxiety,Latino,0.34296602213590394
+Random forest,demographic,0,anxiety,Black,0.31717004593863096
+Random forest,demographic,0,anxiety,Asian,0.329107851553732
+Random forest,demographic,0,uncertainty,White,0.29937876328678503
+Random forest,demographic,0,uncertainty,Latino,0.33548500040026963
+Random forest,demographic,0,uncertainty,Black,0.384285230851925
+Random forest,demographic,0,uncertainty,Asian,0.33071810539432656
+Random forest,demographic,1,depressive,White,0.3131149139171237
+Random forest,demographic,1,depressive,Latino,0.3062860018643099
+Random forest,demographic,1,depressive,Black,0.37220509842461064
+Random forest,demographic,1,depressive,Asian,0.3769695465735684
+Random forest,demographic,1,anxiety,White,0.31177128109986385
+Random forest,demographic,1,anxiety,Latino,0.33169956310063853
+Random forest,demographic,1,anxiety,Black,0.32644883851780404
+Random forest,demographic,1,anxiety,Asian,0.31568500760331764
+Random forest,demographic,1,uncertainty,White,0.29022751227247967
+Random forest,demographic,1,uncertainty,Latino,0.32916881618641425
+Random forest,demographic,1,uncertainty,Black,0.3753860407839981
+Random forest,demographic,1,uncertainty,Asian,0.3323948842293759
+Random forest,demographic,2,depressive,White,0.32368686142945957
+Random forest,demographic,2,depressive,Latino,0.31376843876843874
+Random forest,demographic,2,depressive,Black,0.3689853124222056
+Random forest,demographic,2,depressive,Asian,0.3668396329012664
+Random forest,demographic,2,anxiety,White,0.30265788749798744
+Random forest,demographic,2,anxiety,Latino,0.3421524688594453
+Random forest,demographic,2,anxiety,Black,0.3117439144925649
+Random forest,demographic,2,anxiety,Asian,0.32792212162384815
+Random forest,demographic,2,uncertainty,White,0.30213872645733547
+Random forest,demographic,2,uncertainty,Latino,0.3352610154480359
+Random forest,demographic,2,uncertainty,Black,0.3850507546711436
+Random forest,demographic,2,uncertainty,Asian,0.33141079212052227
+Random forest,demographic,3,depressive,White,0.32333558372706744
+Random forest,demographic,3,depressive,Latino,0.3002606595559539
+Random forest,demographic,3,depressive,Black,0.38122084690191194
+Random forest,demographic,3,depressive,Asian,0.3662353775257001
+Random forest,demographic,3,anxiety,White,0.30435371791939925
+Random forest,demographic,3,anxiety,Latino,0.3384876952500774
+Random forest,demographic,3,anxiety,Black,0.3324432176424477
+Random forest,demographic,3,anxiety,Asian,0.3230473449290654
+Random forest,demographic,3,uncertainty,White,0.2968097539688624
+Random forest,demographic,3,uncertainty,Latino,0.3353854525750943
+Random forest,demographic,3,uncertainty,Black,0.3718808340980287
+Random forest,demographic,3,uncertainty,Asian,0.3217964627232023
+Random forest,demographic,4,depressive,White,0.3157406781001056
+Random forest,demographic,4,depressive,Latino,0.29857363791707
+Random forest,demographic,4,depressive,Black,0.3798948244941276
+Random forest,demographic,4,depressive,Asian,0.3749078756939863
+Random forest,demographic,4,anxiety,White,0.29539279200737534
+Random forest,demographic,4,anxiety,Latino,0.3389245586156658
+Random forest,demographic,4,anxiety,Black,0.32428930836188896
+Random forest,demographic,4,anxiety,Asian,0.30765407184092575
+Random forest,demographic,4,uncertainty,White,0.28806747258826365
+Random forest,demographic,4,uncertainty,Latino,0.3305949119451253
+Random forest,demographic,4,uncertainty,Black,0.3772219831707783
+Random forest,demographic,4,uncertainty,Asian,0.3299730469060266
+Separate neural nets,demographic,0,depressive,White,0.3295547412835887
+Separate neural nets,demographic,0,depressive,Latino,0.31436154311377656
+Separate neural nets,demographic,0,depressive,Black,0.37888143844264494
+Separate neural nets,demographic,0,depressive,Asian,0.3567280646971806
+Separate neural nets,demographic,0,anxiety,White,0.3212996411907501
+Separate neural nets,demographic,0,anxiety,Latino,0.3402521688070296
+Separate neural nets,demographic,0,anxiety,Black,0.3579122119811714
+Separate neural nets,demographic,0,anxiety,Asian,0.3266888901297653
+Separate neural nets,demographic,0,uncertainty,White,0.2865085966668344
+Separate neural nets,demographic,0,uncertainty,Latino,0.3049529232253726
+Separate neural nets,demographic,0,uncertainty,Black,0.3519833645203611
+Separate neural nets,demographic,0,uncertainty,Asian,0.32472683011956477
+Separate neural nets,demographic,1,depressive,White,0.3048539928396115
+Separate neural nets,demographic,1,depressive,Latino,0.30200387090403263
+Separate neural nets,demographic,1,depressive,Black,0.3838339071966525
+Separate neural nets,demographic,1,depressive,Asian,0.32297295781419516
+Separate neural nets,demographic,1,anxiety,White,0.3038856380358461
+Separate neural nets,demographic,1,anxiety,Latino,0.33571783977534136
+Separate neural nets,demographic,1,anxiety,Black,0.3662483442233273
+Separate neural nets,demographic,1,anxiety,Asian,0.3106333984239414
+Separate neural nets,demographic,1,uncertainty,White,0.2663580194752689
+Separate neural nets,demographic,1,uncertainty,Latino,0.3250963401749535
+Separate neural nets,demographic,1,uncertainty,Black,0.34823192409290354
+Separate neural nets,demographic,1,uncertainty,Asian,0.3253415439514921
+Separate neural nets,demographic,2,depressive,White,0.30855381989175096
+Separate neural nets,demographic,2,depressive,Latino,0.3235972964846562
+Separate neural nets,demographic,2,depressive,Black,0.3515564929698199
+Separate neural nets,demographic,2,depressive,Asian,0.3396752555930453
+Separate neural nets,demographic,2,anxiety,White,0.33894522821090156
+Separate neural nets,demographic,2,anxiety,Latino,0.29903319344873813
+Separate neural nets,demographic,2,anxiety,Black,0.33262968572510415
+Separate neural nets,demographic,2,anxiety,Asian,0.3174104322147935
+Separate neural nets,demographic,2,uncertainty,White,0.28564483658366513
+Separate neural nets,demographic,2,uncertainty,Latino,0.3122344948105527
+Separate neural nets,demographic,2,uncertainty,Black,0.3451345586536391
+Separate neural nets,demographic,2,uncertainty,Asian,0.3405898259238551
+Separate neural nets,demographic,3,depressive,White,0.3031061477880332
+Separate neural nets,demographic,3,depressive,Latino,0.3005477282665271
+Separate neural nets,demographic,3,depressive,Black,0.3738474114358847
+Separate neural nets,demographic,3,depressive,Asian,0.3620716666985374
+Separate neural nets,demographic,3,anxiety,White,0.30815003315003314
+Separate neural nets,demographic,3,anxiety,Latino,0.3262472546844089
+Separate neural nets,demographic,3,anxiety,Black,0.3508177130237695
+Separate neural nets,demographic,3,anxiety,Asian,0.3280831986171123
+Separate neural nets,demographic,3,uncertainty,White,0.2776104340611739
+Separate neural nets,demographic,3,uncertainty,Latino,0.32550490930200954
+Separate neural nets,demographic,3,uncertainty,Black,0.35490249019191755
+Separate neural nets,demographic,3,uncertainty,Asian,0.3255371347947421
+Separate neural nets,demographic,4,depressive,White,0.33373748054453745
+Separate neural nets,demographic,4,depressive,Latino,0.3034016069460373
+Separate neural nets,demographic,4,depressive,Black,0.3702150594079997
+Separate neural nets,demographic,4,depressive,Asian,0.34560537088509463
+Separate neural nets,demographic,4,anxiety,White,0.3110725176291214
+Separate neural nets,demographic,4,anxiety,Latino,0.33972309391585087
+Separate neural nets,demographic,4,anxiety,Black,0.35341909078279493
+Separate neural nets,demographic,4,anxiety,Asian,0.32752610854455433
+Separate neural nets,demographic,4,uncertainty,White,0.2730757652439808
+Separate neural nets,demographic,4,uncertainty,Latino,0.32431425493279087
+Separate neural nets,demographic,4,uncertainty,Black,0.35453392330068506
+Separate neural nets,demographic,4,uncertainty,Asian,0.3285729910689795
+Multi-task neural net,demographic,0,depressive,White,0.2761421218694019
+Multi-task neural net,demographic,0,depressive,Latino,0.324610620110113
+Multi-task neural net,demographic,0,depressive,Black,0.3735009018559309
+Multi-task neural net,demographic,0,depressive,Asian,0.31159556976796754
+Multi-task neural net,demographic,0,anxiety,White,0.2557116320888519
+Multi-task neural net,demographic,0,anxiety,Latino,0.31584925145488324
+Multi-task neural net,demographic,0,anxiety,Black,0.37637919847111473
+Multi-task neural net,demographic,0,anxiety,Asian,0.3325064750558536
+Multi-task neural net,demographic,0,uncertainty,White,0.26770218022229053
+Multi-task neural net,demographic,0,uncertainty,Latino,0.3288811584938647
+Multi-task neural net,demographic,0,uncertainty,Black,0.32911573558808593
+Multi-task neural net,demographic,0,uncertainty,Asian,0.3312843399941334
+Multi-task neural net,demographic,1,depressive,White,0.2798819861802193
+Multi-task neural net,demographic,1,depressive,Latino,0.30330079674337634
+Multi-task neural net,demographic,1,depressive,Black,0.36744119839996225
+Multi-task neural net,demographic,1,depressive,Asian,0.31232460018303937
+Multi-task neural net,demographic,1,anxiety,White,0.2710609907477428
+Multi-task neural net,demographic,1,anxiety,Latino,0.30364430330598374
+Multi-task neural net,demographic,1,anxiety,Black,0.33401329721652656
+Multi-task neural net,demographic,1,anxiety,Asian,0.31792108781652395
+Multi-task neural net,demographic,1,uncertainty,White,0.2918436500240023
+Multi-task neural net,demographic,1,uncertainty,Latino,0.32086884810137617
+Multi-task neural net,demographic,1,uncertainty,Black,0.3566453311567105
+Multi-task neural net,demographic,1,uncertainty,Asian,0.3165987029321965
+Multi-task neural net,demographic,2,depressive,White,0.2576767966219904
+Multi-task neural net,demographic,2,depressive,Latino,0.3293262814435741
+Multi-task neural net,demographic,2,depressive,Black,0.36220465489807563
+Multi-task neural net,demographic,2,depressive,Asian,0.3115075575244035
+Multi-task neural net,demographic,2,anxiety,White,0.2749382903071428
+Multi-task neural net,demographic,2,anxiety,Latino,0.32999044415077333
+Multi-task neural net,demographic,2,anxiety,Black,0.3703723884708786
+Multi-task neural net,demographic,2,anxiety,Asian,0.34303327325093397
+Multi-task neural net,demographic,2,uncertainty,White,0.26101897445965067
+Multi-task neural net,demographic,2,uncertainty,Latino,0.3437401492388039
+Multi-task neural net,demographic,2,uncertainty,Black,0.3300597727295888
+Multi-task neural net,demographic,2,uncertainty,Asian,0.35454267101948583
+Multi-task neural net,demographic,3,depressive,White,0.2891989113098953
+Multi-task neural net,demographic,3,depressive,Latino,0.3314342911334057
+Multi-task neural net,demographic,3,depressive,Black,0.33400599338994963
+Multi-task neural net,demographic,3,depressive,Asian,0.34243249181045393
+Multi-task neural net,demographic,3,anxiety,White,0.3070946980216457
+Multi-task neural net,demographic,3,anxiety,Latino,0.33266417377536034
+Multi-task neural net,demographic,3,anxiety,Black,0.3455890459710396
+Multi-task neural net,demographic,3,anxiety,Asian,0.3545721315935714
+Multi-task neural net,demographic,3,uncertainty,White,0.24641702834980145
+Multi-task neural net,demographic,3,uncertainty,Latino,0.3061776907309211
+Multi-task neural net,demographic,3,uncertainty,Black,0.3046423884442747
+Multi-task neural net,demographic,3,uncertainty,Asian,0.3455290217150582
+Multi-task neural net,demographic,4,depressive,White,0.27324175889351504
+Multi-task neural net,demographic,4,depressive,Latino,0.3178718196752201
+Multi-task neural net,demographic,4,depressive,Black,0.357137672263488
+Multi-task neural net,demographic,4,depressive,Asian,0.3391399881689569
+Multi-task neural net,demographic,4,anxiety,White,0.2691823562068432
+Multi-task neural net,demographic,4,anxiety,Latino,0.31144445068084925
+Multi-task neural net,demographic,4,anxiety,Black,0.31646779356466276
+Multi-task neural net,demographic,4,anxiety,Asian,0.34738609415503396
+Multi-task neural net,demographic,4,uncertainty,White,0.27326119644367364
+Multi-task neural net,demographic,4,uncertainty,Latino,0.32637439122040246
+Multi-task neural net,demographic,4,uncertainty,Black,0.34082233513984
+Multi-task neural net,demographic,4,uncertainty,Asian,0.33741163203608615
+Multi-task ensemble,demographic,0,depressive,White,0.2643403019547238
+Multi-task ensemble,demographic,0,depressive,Latino,0.3276128788161125
+Multi-task ensemble,demographic,0,depressive,Black,0.3908747668072795
+Multi-task ensemble,demographic,0,depressive,Asian,0.3187983958424633
+Multi-task ensemble,demographic,0,anxiety,White,0.27633373064420863
+Multi-task ensemble,demographic,0,anxiety,Latino,0.30946213501619135
+Multi-task ensemble,demographic,0,anxiety,Black,0.3360391166353241
+Multi-task ensemble,demographic,0,anxiety,Asian,0.3472784921324832
+Multi-task ensemble,demographic,0,uncertainty,White,0.2604895295797307
+Multi-task ensemble,demographic,0,uncertainty,Latino,0.33177319110819337
+Multi-task ensemble,demographic,0,uncertainty,Black,0.3251865161207561
+Multi-task ensemble,demographic,0,uncertainty,Asian,0.3416058191880789
+Multi-task ensemble,demographic,1,depressive,White,0.2643403019547238
+Multi-task ensemble,demographic,1,depressive,Latino,0.3276128788161125
+Multi-task ensemble,demographic,1,depressive,Black,0.3908747668072795
+Multi-task ensemble,demographic,1,depressive,Asian,0.3187983958424633
+Multi-task ensemble,demographic,1,anxiety,White,0.27633373064420863
+Multi-task ensemble,demographic,1,anxiety,Latino,0.30946213501619135
+Multi-task ensemble,demographic,1,anxiety,Black,0.3360391166353241
+Multi-task ensemble,demographic,1,anxiety,Asian,0.3472784921324832
+Multi-task ensemble,demographic,1,uncertainty,White,0.2604895295797307
+Multi-task ensemble,demographic,1,uncertainty,Latino,0.33177319110819337
+Multi-task ensemble,demographic,1,uncertainty,Black,0.3251865161207561
+Multi-task ensemble,demographic,1,uncertainty,Asian,0.3416058191880789
+Multi-task ensemble,demographic,2,depressive,White,0.2643403019547238
+Multi-task ensemble,demographic,2,depressive,Latino,0.3276128788161125
+Multi-task ensemble,demographic,2,depressive,Black,0.3908747668072795
+Multi-task ensemble,demographic,2,depressive,Asian,0.3187983958424633
+Multi-task ensemble,demographic,2,anxiety,White,0.27633373064420863
+Multi-task ensemble,demographic,2,anxiety,Latino,0.30946213501619135
+Multi-task ensemble,demographic,2,anxiety,Black,0.3360391166353241
+Multi-task ensemble,demographic,2,anxiety,Asian,0.3472784921324832
+Multi-task ensemble,demographic,2,uncertainty,White,0.2604895295797307
+Multi-task ensemble,demographic,2,uncertainty,Latino,0.33177319110819337
+Multi-task ensemble,demographic,2,uncertainty,Black,0.3251865161207561
+Multi-task ensemble,demographic,2,uncertainty,Asian,0.3416058191880789
+Multi-task ensemble,demographic,3,depressive,White,0.2643403019547238
+Multi-task ensemble,demographic,3,depressive,Latino,0.3276128788161125
+Multi-task ensemble,demographic,3,depressive,Black,0.3908747668072795
+Multi-task ensemble,demographic,3,depressive,Asian,0.3187983958424633
+Multi-task ensemble,demographic,3,anxiety,White,0.27633373064420863
+Multi-task ensemble,demographic,3,anxiety,Latino,0.30946213501619135
+Multi-task ensemble,demographic,3,anxiety,Black,0.3360391166353241
+Multi-task ensemble,demographic,3,anxiety,Asian,0.3472784921324832
+Multi-task ensemble,demographic,3,uncertainty,White,0.2604895295797307
+Multi-task ensemble,demographic,3,uncertainty,Latino,0.33177319110819337
+Multi-task ensemble,demographic,3,uncertainty,Black,0.3251865161207561
+Multi-task ensemble,demographic,3,uncertainty,Asian,0.3416058191880789
+Multi-task ensemble,demographic,4,depressive,White,0.2643403019547238
+Multi-task ensemble,demographic,4,depressive,Latino,0.3276128788161125
+Multi-task ensemble,demographic,4,depressive,Black,0.3908747668072795
+Multi-task ensemble,demographic,4,depressive,Asian,0.3187983958424633
+Multi-task ensemble,demographic,4,anxiety,White,0.27633373064420863
+Multi-task ensemble,demographic,4,anxiety,Latino,0.30946213501619135
+Multi-task ensemble,demographic,4,anxiety,Black,0.3360391166353241
+Multi-task ensemble,demographic,4,anxiety,Asian,0.3472784921324832
+Multi-task ensemble,demographic,4,uncertainty,White,0.2604895295797307
+Multi-task ensemble,demographic,4,uncertainty,Latino,0.33177319110819337
+Multi-task ensemble,demographic,4,uncertainty,Black,0.3251865161207561
+Multi-task ensemble,demographic,4,uncertainty,Asian,0.3416058191880789
+Logistic regression,immigration,0,depressive,White,0.3008332085755638
+Logistic regression,immigration,0,depressive,Latino,0.3412914535449058
+Logistic regression,immigration,0,depressive,Black,0.37796572049825194
+Logistic regression,immigration,0,depressive,Asian,0.34093871827564315
+Logistic regression,immigration,0,anxiety,White,0.30113413521595667
+Logistic regression,immigration,0,anxiety,Latino,0.36243703924504256
+Logistic regression,immigration,0,anxiety,Black,0.3469879778463632
+Logistic regression,immigration,0,anxiety,Asian,0.3687712015870817
+Logistic regression,immigration,0,uncertainty,White,0.3179321609134029
+Logistic regression,immigration,0,uncertainty,Latino,0.329779442506906
+Logistic regression,immigration,0,uncertainty,Black,0.34564282157722415
+Logistic regression,immigration,0,uncertainty,Asian,0.3330813158453113
+Logistic regression,immigration,1,depressive,White,0.3008332085755638
+Logistic regression,immigration,1,depressive,Latino,0.3412914535449058
+Logistic regression,immigration,1,depressive,Black,0.37796572049825194
+Logistic regression,immigration,1,depressive,Asian,0.34093871827564315
+Logistic regression,immigration,1,anxiety,White,0.30113413521595667
+Logistic regression,immigration,1,anxiety,Latino,0.36243703924504256
+Logistic regression,immigration,1,anxiety,Black,0.3469879778463632
+Logistic regression,immigration,1,anxiety,Asian,0.3687712015870817
+Logistic regression,immigration,1,uncertainty,White,0.3179321609134029
+Logistic regression,immigration,1,uncertainty,Latino,0.329779442506906
+Logistic regression,immigration,1,uncertainty,Black,0.34564282157722415
+Logistic regression,immigration,1,uncertainty,Asian,0.3330813158453113
+Logistic regression,immigration,2,depressive,White,0.3008332085755638
+Logistic regression,immigration,2,depressive,Latino,0.3412914535449058
+Logistic regression,immigration,2,depressive,Black,0.37796572049825194
+Logistic regression,immigration,2,depressive,Asian,0.34093871827564315
+Logistic regression,immigration,2,anxiety,White,0.30113413521595667
+Logistic regression,immigration,2,anxiety,Latino,0.36243703924504256
+Logistic regression,immigration,2,anxiety,Black,0.3469879778463632
+Logistic regression,immigration,2,anxiety,Asian,0.3687712015870817
+Logistic regression,immigration,2,uncertainty,White,0.3179321609134029
+Logistic regression,immigration,2,uncertainty,Latino,0.329779442506906
+Logistic regression,immigration,2,uncertainty,Black,0.34564282157722415
+Logistic regression,immigration,2,uncertainty,Asian,0.3330813158453113
+Logistic regression,immigration,3,depressive,White,0.3008332085755638
+Logistic regression,immigration,3,depressive,Latino,0.3412914535449058
+Logistic regression,immigration,3,depressive,Black,0.37796572049825194
+Logistic regression,immigration,3,depressive,Asian,0.34093871827564315
+Logistic regression,immigration,3,anxiety,White,0.30113413521595667
+Logistic regression,immigration,3,anxiety,Latino,0.36243703924504256
+Logistic regression,immigration,3,anxiety,Black,0.3469879778463632
+Logistic regression,immigration,3,anxiety,Asian,0.3687712015870817
+Logistic regression,immigration,3,uncertainty,White,0.3179321609134029
+Logistic regression,immigration,3,uncertainty,Latino,0.329779442506906
+Logistic regression,immigration,3,uncertainty,Black,0.34564282157722415
+Logistic regression,immigration,3,uncertainty,Asian,0.3330813158453113
+Logistic regression,immigration,4,depressive,White,0.3008332085755638
+Logistic regression,immigration,4,depressive,Latino,0.3412914535449058
+Logistic regression,immigration,4,depressive,Black,0.37796572049825194
+Logistic regression,immigration,4,depressive,Asian,0.34093871827564315
+Logistic regression,immigration,4,anxiety,White,0.30113413521595667
+Logistic regression,immigration,4,anxiety,Latino,0.36243703924504256
+Logistic regression,immigration,4,anxiety,Black,0.3469879778463632
+Logistic regression,immigration,4,anxiety,Asian,0.3687712015870817
+Logistic regression,immigration,4,uncertainty,White,0.3179321609134029
+Logistic regression,immigration,4,uncertainty,Latino,0.329779442506906
+Logistic regression,immigration,4,uncertainty,Black,0.34564282157722415
+Logistic regression,immigration,4,uncertainty,Asian,0.3330813158453113
+Random forest,immigration,0,depressive,White,0.3529860398567166
+Random forest,immigration,0,depressive,Latino,0.34255691246952363
+Random forest,immigration,0,depressive,Black,0.4276103431024713
+Random forest,immigration,0,depressive,Asian,0.3752921200884761
+Random forest,immigration,0,anxiety,White,0.3859867819004086
+Random forest,immigration,0,anxiety,Latino,0.37344295244979714
+Random forest,immigration,0,anxiety,Black,0.3529388770743759
+Random forest,immigration,0,anxiety,Asian,0.33549240805823344
+Random forest,immigration,0,uncertainty,White,0.3607790786671607
+Random forest,immigration,0,uncertainty,Latino,0.3468219258757798
+Random forest,immigration,0,uncertainty,Black,0.3924515668836883
+Random forest,immigration,0,uncertainty,Asian,0.34453388385236355
+Random forest,immigration,1,depressive,White,0.3461537795075573
+Random forest,immigration,1,depressive,Latino,0.38063861596708554
+Random forest,immigration,1,depressive,Black,0.4375548655996501
+Random forest,immigration,1,depressive,Asian,0.3880418302565529
+Random forest,immigration,1,anxiety,White,0.3873732349398039
+Random forest,immigration,1,anxiety,Latino,0.38035503205239324
+Random forest,immigration,1,anxiety,Black,0.36055101243969473
+Random forest,immigration,1,anxiety,Asian,0.33119901536353114
+Random forest,immigration,1,uncertainty,White,0.3594312023475415
+Random forest,immigration,1,uncertainty,Latino,0.348677011946719
+Random forest,immigration,1,uncertainty,Black,0.3942697967856633
+Random forest,immigration,1,uncertainty,Asian,0.33810313793954144
+Random forest,immigration,2,depressive,White,0.35261257171046084
+Random forest,immigration,2,depressive,Latino,0.3473495695163722
+Random forest,immigration,2,depressive,Black,0.42158531741081173
+Random forest,immigration,2,depressive,Asian,0.3751883699659646
+Random forest,immigration,2,anxiety,White,0.38914173063867563
+Random forest,immigration,2,anxiety,Latino,0.35929487704172897
+Random forest,immigration,2,anxiety,Black,0.3748100119288505
+Random forest,immigration,2,anxiety,Asian,0.3418301101831556
+Random forest,immigration,2,uncertainty,White,0.3664857609710551
+Random forest,immigration,2,uncertainty,Latino,0.3362071783756213
+Random forest,immigration,2,uncertainty,Black,0.39828258230576896
+Random forest,immigration,2,uncertainty,Asian,0.35851693647389515
+Random forest,immigration,3,depressive,White,0.362527229923963
+Random forest,immigration,3,depressive,Latino,0.3518813111974259
+Random forest,immigration,3,depressive,Black,0.4200261360330497
+Random forest,immigration,3,depressive,Asian,0.37973440787711255
+Random forest,immigration,3,anxiety,White,0.416768791257493
+Random forest,immigration,3,anxiety,Latino,0.3612773148366522
+Random forest,immigration,3,anxiety,Black,0.36822610923171784
+Random forest,immigration,3,anxiety,Asian,0.35089068786800043
+Random forest,immigration,3,uncertainty,White,0.36874466399277683
+Random forest,immigration,3,uncertainty,Latino,0.3416400895922487
+Random forest,immigration,3,uncertainty,Black,0.40215900259960874
+Random forest,immigration,3,uncertainty,Asian,0.3518366391079381
+Random forest,immigration,4,depressive,White,0.3572237524875297
+Random forest,immigration,4,depressive,Latino,0.35135710114967234
+Random forest,immigration,4,depressive,Black,0.41478705861774473
+Random forest,immigration,4,depressive,Asian,0.3754358962544513
+Random forest,immigration,4,anxiety,White,0.37686235213782565
+Random forest,immigration,4,anxiety,Latino,0.3718650152360565
+Random forest,immigration,4,anxiety,Black,0.37236610846910045
+Random forest,immigration,4,anxiety,Asian,0.3399539033294945
+Random forest,immigration,4,uncertainty,White,0.3594459843954632
+Random forest,immigration,4,uncertainty,Latino,0.35412804056452624
+Random forest,immigration,4,uncertainty,Black,0.39626306084669927
+Random forest,immigration,4,uncertainty,Asian,0.3506959737628894
+Separate neural nets,immigration,0,depressive,White,0.32377819691212445
+Separate neural nets,immigration,0,depressive,Latino,0.361399767896389
+Separate neural nets,immigration,0,depressive,Black,0.38113872265489496
+Separate neural nets,immigration,0,depressive,Asian,0.3668262622860324
+Separate neural nets,immigration,0,anxiety,White,0.30661325533230377
+Separate neural nets,immigration,0,anxiety,Latino,0.32506744633337203
+Separate neural nets,immigration,0,anxiety,Black,0.29115008365775785
+Separate neural nets,immigration,0,anxiety,Asian,0.3654660797607697
+Separate neural nets,immigration,0,uncertainty,White,0.3456924277506108
+Separate neural nets,immigration,0,uncertainty,Latino,0.34365240567000893
+Separate neural nets,immigration,0,uncertainty,Black,0.4170691903731139
+Separate neural nets,immigration,0,uncertainty,Asian,0.3568975325160455
+Separate neural nets,immigration,1,depressive,White,0.3608816344119467
+Separate neural nets,immigration,1,depressive,Latino,0.33801867957666387
+Separate neural nets,immigration,1,depressive,Black,0.40403579676887824
+Separate neural nets,immigration,1,depressive,Asian,0.3657383451626522
+Separate neural nets,immigration,1,anxiety,White,0.32818510732621164
+Separate neural nets,immigration,1,anxiety,Latino,0.347154571454364
+Separate neural nets,immigration,1,anxiety,Black,0.3486085324500577
+Separate neural nets,immigration,1,anxiety,Asian,0.35930401140161894
+Separate neural nets,immigration,1,uncertainty,White,0.33947417431525684
+Separate neural nets,immigration,1,uncertainty,Latino,0.3193864461810728
+Separate neural nets,immigration,1,uncertainty,Black,0.3757048076417099
+Separate neural nets,immigration,1,uncertainty,Asian,0.3361195189569622
+Separate neural nets,immigration,2,depressive,White,0.3259733668487721
+Separate neural nets,immigration,2,depressive,Latino,0.3395206444864865
+Separate neural nets,immigration,2,depressive,Black,0.3747638443925723
+Separate neural nets,immigration,2,depressive,Asian,0.36188922927271894
+Separate neural nets,immigration,2,anxiety,White,0.3451018723828926
+Separate neural nets,immigration,2,anxiety,Latino,0.34801022689390254
+Separate neural nets,immigration,2,anxiety,Black,0.349788344910679
+Separate neural nets,immigration,2,anxiety,Asian,0.37408763521166194
+Separate neural nets,immigration,2,uncertainty,White,0.35856633358886925
+Separate neural nets,immigration,2,uncertainty,Latino,0.333419855642778
+Separate neural nets,immigration,2,uncertainty,Black,0.38735354218248774
+Separate neural nets,immigration,2,uncertainty,Asian,0.3501754954541654
+Separate neural nets,immigration,3,depressive,White,0.330135589414303
+Separate neural nets,immigration,3,depressive,Latino,0.346126201437346
+Separate neural nets,immigration,3,depressive,Black,0.37130369055802526
+Separate neural nets,immigration,3,depressive,Asian,0.3771436962001954
+Separate neural nets,immigration,3,anxiety,White,0.2914453750935897
+Separate neural nets,immigration,3,anxiety,Latino,0.34262304931806586
+Separate neural nets,immigration,3,anxiety,Black,0.36093584634791964
+Separate neural nets,immigration,3,anxiety,Asian,0.36388586409525914
+Separate neural nets,immigration,3,uncertainty,White,0.34310693892345917
+Separate neural nets,immigration,3,uncertainty,Latino,0.33368305108543145
+Separate neural nets,immigration,3,uncertainty,Black,0.3670696282896453
+Separate neural nets,immigration,3,uncertainty,Asian,0.3527369898039133
+Separate neural nets,immigration,4,depressive,White,0.3332095284135861
+Separate neural nets,immigration,4,depressive,Latino,0.341646465783651
+Separate neural nets,immigration,4,depressive,Black,0.38555646907239594
+Separate neural nets,immigration,4,depressive,Asian,0.38798498416957716
+Separate neural nets,immigration,4,anxiety,White,0.31188418783730976
+Separate neural nets,immigration,4,anxiety,Latino,0.34159033557590146
+Separate neural nets,immigration,4,anxiety,Black,0.37662732291759815
+Separate neural nets,immigration,4,anxiety,Asian,0.36346458168492063
+Separate neural nets,immigration,4,uncertainty,White,0.3468676681066581
+Separate neural nets,immigration,4,uncertainty,Latino,0.3201854340878866
+Separate neural nets,immigration,4,uncertainty,Black,0.3907788716202911
+Separate neural nets,immigration,4,uncertainty,Asian,0.34338741436266296
+Multi-task neural net,immigration,0,depressive,White,0.32723386005119753
+Multi-task neural net,immigration,0,depressive,Latino,0.33737716078635593
+Multi-task neural net,immigration,0,depressive,Black,0.4139956360719717
+Multi-task neural net,immigration,0,depressive,Asian,0.36894842913409787
+Multi-task neural net,immigration,0,anxiety,White,0.3306679621827247
+Multi-task neural net,immigration,0,anxiety,Latino,0.3645944785805324
+Multi-task neural net,immigration,0,anxiety,Black,0.3546158530358805
+Multi-task neural net,immigration,0,anxiety,Asian,0.38026576114723326
+Multi-task neural net,immigration,0,uncertainty,White,0.3665600152216147
+Multi-task neural net,immigration,0,uncertainty,Latino,0.33725673408200507
+Multi-task neural net,immigration,0,uncertainty,Black,0.39875392628018574
+Multi-task neural net,immigration,0,uncertainty,Asian,0.3756882063170095
+Multi-task neural net,immigration,1,depressive,White,0.34815647596216776
+Multi-task neural net,immigration,1,depressive,Latino,0.35615759134594727
+Multi-task neural net,immigration,1,depressive,Black,0.4088262407231554
+Multi-task neural net,immigration,1,depressive,Asian,0.39415856683643247
+Multi-task neural net,immigration,1,anxiety,White,0.34394020861029956
+Multi-task neural net,immigration,1,anxiety,Latino,0.3589483281006701
+Multi-task neural net,immigration,1,anxiety,Black,0.3739548105427439
+Multi-task neural net,immigration,1,anxiety,Asian,0.3691972417382253
+Multi-task neural net,immigration,1,uncertainty,White,0.36285391958927815
+Multi-task neural net,immigration,1,uncertainty,Latino,0.3491519006504532
+Multi-task neural net,immigration,1,uncertainty,Black,0.3993256397993615
+Multi-task neural net,immigration,1,uncertainty,Asian,0.3593661446098507
+Multi-task neural net,immigration,2,depressive,White,0.30148194916691884
+Multi-task neural net,immigration,2,depressive,Latino,0.3343160325805035
+Multi-task neural net,immigration,2,depressive,Black,0.4255926413118439
+Multi-task neural net,immigration,2,depressive,Asian,0.34781334390968943
+Multi-task neural net,immigration,2,anxiety,White,0.2909241466002592
+Multi-task neural net,immigration,2,anxiety,Latino,0.349809324866818
+Multi-task neural net,immigration,2,anxiety,Black,0.3760345383667019
+Multi-task neural net,immigration,2,anxiety,Asian,0.3474414265165108
+Multi-task neural net,immigration,2,uncertainty,White,0.3355770957542391
+Multi-task neural net,immigration,2,uncertainty,Latino,0.34325154293407445
+Multi-task neural net,immigration,2,uncertainty,Black,0.39468903153583523
+Multi-task neural net,immigration,2,uncertainty,Asian,0.3374083516087153
+Multi-task neural net,immigration,3,depressive,White,0.3358448245633537
+Multi-task neural net,immigration,3,depressive,Latino,0.34990916524009735
+Multi-task neural net,immigration,3,depressive,Black,0.38184224043210435
+Multi-task neural net,immigration,3,depressive,Asian,0.35246769395181315
+Multi-task neural net,immigration,3,anxiety,White,0.32250285259919087
+Multi-task neural net,immigration,3,anxiety,Latino,0.36839600802112127
+Multi-task neural net,immigration,3,anxiety,Black,0.38209889033296124
+Multi-task neural net,immigration,3,anxiety,Asian,0.37613570440599675
+Multi-task neural net,immigration,3,uncertainty,White,0.34964636784952163
+Multi-task neural net,immigration,3,uncertainty,Latino,0.34343612056440986
+Multi-task neural net,immigration,3,uncertainty,Black,0.3932990506516457
+Multi-task neural net,immigration,3,uncertainty,Asian,0.36377051654829434
+Multi-task neural net,immigration,4,depressive,White,0.3312043678475747
+Multi-task neural net,immigration,4,depressive,Latino,0.3606601731601732
+Multi-task neural net,immigration,4,depressive,Black,0.404358558172838
+Multi-task neural net,immigration,4,depressive,Asian,0.3694485895146218
+Multi-task neural net,immigration,4,anxiety,White,0.3368088861844697
+Multi-task neural net,immigration,4,anxiety,Latino,0.38680012521083773
+Multi-task neural net,immigration,4,anxiety,Black,0.40826501241108226
+Multi-task neural net,immigration,4,anxiety,Asian,0.3765151427505401
+Multi-task neural net,immigration,4,uncertainty,White,0.3601539428557815
+Multi-task neural net,immigration,4,uncertainty,Latino,0.37303292826725626
+Multi-task neural net,immigration,4,uncertainty,Black,0.3915023243687037
+Multi-task neural net,immigration,4,uncertainty,Asian,0.36103372221947627
+Multi-task ensemble,immigration,0,depressive,White,0.31742728696972833
+Multi-task ensemble,immigration,0,depressive,Latino,0.3580123421315677
+Multi-task ensemble,immigration,0,depressive,Black,0.4227396084322081
+Multi-task ensemble,immigration,0,depressive,Asian,0.37450955469754393
+Multi-task ensemble,immigration,0,anxiety,White,0.2955653352984115
+Multi-task ensemble,immigration,0,anxiety,Latino,0.3683661437966029
+Multi-task ensemble,immigration,0,anxiety,Black,0.3895422862671769
+Multi-task ensemble,immigration,0,anxiety,Asian,0.3845199281414029
+Multi-task ensemble,immigration,0,uncertainty,White,0.344880853826291
+Multi-task ensemble,immigration,0,uncertainty,Latino,0.35085824736736065
+Multi-task ensemble,immigration,0,uncertainty,Black,0.40519589821783
+Multi-task ensemble,immigration,0,uncertainty,Asian,0.36815118197369556
+Multi-task ensemble,immigration,1,depressive,White,0.31742728696972833
+Multi-task ensemble,immigration,1,depressive,Latino,0.3580123421315677
+Multi-task ensemble,immigration,1,depressive,Black,0.4227396084322081
+Multi-task ensemble,immigration,1,depressive,Asian,0.37450955469754393
+Multi-task ensemble,immigration,1,anxiety,White,0.2955653352984115
+Multi-task ensemble,immigration,1,anxiety,Latino,0.3683661437966029
+Multi-task ensemble,immigration,1,anxiety,Black,0.3895422862671769
+Multi-task ensemble,immigration,1,anxiety,Asian,0.3845199281414029
+Multi-task ensemble,immigration,1,uncertainty,White,0.344880853826291
+Multi-task ensemble,immigration,1,uncertainty,Latino,0.35085824736736065
+Multi-task ensemble,immigration,1,uncertainty,Black,0.40519589821783
+Multi-task ensemble,immigration,1,uncertainty,Asian,0.36815118197369556
+Multi-task ensemble,immigration,2,depressive,White,0.31742728696972833
+Multi-task ensemble,immigration,2,depressive,Latino,0.3580123421315677
+Multi-task ensemble,immigration,2,depressive,Black,0.4227396084322081
+Multi-task ensemble,immigration,2,depressive,Asian,0.37450955469754393
+Multi-task ensemble,immigration,2,anxiety,White,0.2955653352984115
+Multi-task ensemble,immigration,2,anxiety,Latino,0.3683661437966029
+Multi-task ensemble,immigration,2,anxiety,Black,0.3895422862671769
+Multi-task ensemble,immigration,2,anxiety,Asian,0.3845199281414029
+Multi-task ensemble,immigration,2,uncertainty,White,0.344880853826291
+Multi-task ensemble,immigration,2,uncertainty,Latino,0.35085824736736065
+Multi-task ensemble,immigration,2,uncertainty,Black,0.40519589821783
+Multi-task ensemble,immigration,2,uncertainty,Asian,0.36815118197369556
+Multi-task ensemble,immigration,3,depressive,White,0.31742728696972833
+Multi-task ensemble,immigration,3,depressive,Latino,0.3580123421315677
+Multi-task ensemble,immigration,3,depressive,Black,0.4227396084322081
+Multi-task ensemble,immigration,3,depressive,Asian,0.37450955469754393
+Multi-task ensemble,immigration,3,anxiety,White,0.2955653352984115
+Multi-task ensemble,immigration,3,anxiety,Latino,0.3683661437966029
+Multi-task ensemble,immigration,3,anxiety,Black,0.3895422862671769
+Multi-task ensemble,immigration,3,anxiety,Asian,0.3845199281414029
+Multi-task ensemble,immigration,3,uncertainty,White,0.344880853826291
+Multi-task ensemble,immigration,3,uncertainty,Latino,0.35085824736736065
+Multi-task ensemble,immigration,3,uncertainty,Black,0.40519589821783
+Multi-task ensemble,immigration,3,uncertainty,Asian,0.36815118197369556
+Multi-task ensemble,immigration,4,depressive,White,0.31742728696972833
+Multi-task ensemble,immigration,4,depressive,Latino,0.3580123421315677
+Multi-task ensemble,immigration,4,depressive,Black,0.4227396084322081
+Multi-task ensemble,immigration,4,depressive,Asian,0.37450955469754393
+Multi-task ensemble,immigration,4,anxiety,White,0.2955653352984115
+Multi-task ensemble,immigration,4,anxiety,Latino,0.3683661437966029
+Multi-task ensemble,immigration,4,anxiety,Black,0.3895422862671769
+Multi-task ensemble,immigration,4,anxiety,Asian,0.3845199281414029
+Multi-task ensemble,immigration,4,uncertainty,White,0.344880853826291
+Multi-task ensemble,immigration,4,uncertainty,Latino,0.35085824736736065
+Multi-task ensemble,immigration,4,uncertainty,Black,0.40519589821783
+Multi-task ensemble,immigration,4,uncertainty,Asian,0.36815118197369556

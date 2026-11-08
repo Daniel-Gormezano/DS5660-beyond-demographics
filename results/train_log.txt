@@ -1,0 +1,28 @@
+
+=== feature set: demographic  (15 inputs)
+  logreg done  C={'depressive': 10.0, 'anxiety': 1.0, 'uncertainty': 1.0}
+  random forest done  {'depressive': (8, 20), 'anxiety': (8, 20), 'uncertainty': (8, 5)}
+  separate NNs done  {'depressive': {'hidden': (256, 128), 'dropout': 0.2, 'lr': 0.003}, 'anxiety': {'hidden': (256, 128), 'dropout': 0.2, 'lr': 0.001}, 'uncertainty': {'hidden': (256, 128), 'dropout': 0.2, 'lr': 0.001}}
+  multi-task NN + ensemble done  cfg={'hidden': (64, 32), 'dropout': 0.2, 'lr': 0.001}
+
+=== feature set: immigration  (18 inputs)
+  logreg done  C={'depressive': 10.0, 'anxiety': 10.0, 'uncertainty': 10.0}
+  random forest done  {'depressive': (None, 5), 'anxiety': (None, 5), 'uncertainty': (16, 20)}
+  separate NNs done  {'depressive': {'hidden': (256, 128), 'dropout': 0.2, 'lr': 0.003}, 'anxiety': {'hidden': (64, 32), 'dropout': 0.4, 'lr': 0.001}, 'uncertainty': {'hidden': (256, 128), 'dropout': 0.4, 'lr': 0.001}}
+  multi-task NN + ensemble done  cfg={'hidden': (64, 32), 'dropout': 0.2, 'lr': 0.003}
+
+                                   macro_f1        
+                                      mean     std
+model                 features                    
+Logistic regression   demographic   0.3452  0.0000
+                      immigration   0.3545  0.0000
+Multi-task ensemble   demographic   0.3393  0.0000
+                      immigration   0.3762  0.0000
+Multi-task neural net demographic   0.3366  0.0047
+                      immigration   0.3715  0.0071
+Random forest         demographic   0.3465  0.0019
+                      immigration   0.3753  0.0025
+Separate neural nets  demographic   0.3435  0.0042
+                      immigration   0.3594  0.0019
+
+finished in 11.7 min

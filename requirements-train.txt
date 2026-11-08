@@ -1,0 +1,6 @@
+# Training / evaluation (run locally)
+torch
+scikit-learn
+pandas
+numpy
+matplotlib

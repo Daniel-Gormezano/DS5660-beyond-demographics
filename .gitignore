@@ -1,0 +1,5 @@
+# Raw CMPS data is distributed by ICPSR under its terms of use - do not commit it.
+data/
+__pycache__/
+*.pyc
+.DS_Store

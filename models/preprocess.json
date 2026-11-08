@@ -1,0 +1,36 @@
+{
+  "income_median": 5.0,
+  "mean": {
+    "age": 45.576604355367124,
+    "education": 2.982655617652727,
+    "income": 4.93910194642513,
+    "deport_worry": 0.7529389092310658,
+    "policy_stress": 4.929947966852958
+  },
+  "std": {
+    "age": 17.26735279197886,
+    "education": 1.5158689040850226,
+    "income": 3.4194641581194354,
+    "deport_worry": 1.0216192180365928,
+    "policy_stress": 2.7111793758736225
+  },
+  "categories": {
+    "gender": [
+      "Man",
+      "Woman",
+      "Another identity"
+    ],
+    "party": [
+      "Republican",
+      "Democrat",
+      "Independent",
+      "Other party"
+    ],
+    "race": [
+      "White",
+      "Latino",
+      "Black",
+      "Asian"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+model,features,Asian,Black,Latino,White
+Logistic regression,demographic,0.3267,0.3535,0.3348,0.2761
+Logistic regression,immigration,0.3476,0.3569,0.3445,0.3066
+Multi-task ensemble,demographic,0.3359,0.3507,0.3229,0.2671
+Multi-task ensemble,immigration,0.3757,0.4058,0.3591,0.3193
+Multi-task neural net,demographic,0.3332,0.3466,0.3217,0.273
+Multi-task neural net,immigration,0.3653,0.3938,0.3542,0.3362
+Random forest,demographic,0.3409,0.3592,0.3253,0.3061
+Random forest,immigration,0.3558,0.3956,0.3565,0.3695
+Separate neural nets,demographic,0.3321,0.3583,0.3185,0.3035
+Separate neural nets,immigration,0.3617,0.3721,0.3388,0.3327

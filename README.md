@@ -108,8 +108,12 @@ A paired bootstrap resamples the 2,224 test respondents 2,000 times, applying th
 Classification and displayed probabilities use different postprocessing. The F1 comparisons use the original class-weighted softmax outputs. For display, the application subtracts log class weights from each network's logits and applies a temperature fitted by validation negative log-likelihood:
 
 $$
-\widetilde p_t(x)=\frac{1}{5}\sum_{s=1}^{5}
-\operatorname{softmax}\!\left(\frac{z_{s,t}(x)-\log w_t}{T_{s,t}}\right).
+\widetilde{p}_t(x)
+=
+\frac{1}{5}\sum_{s=1}^{5}
+\mathrm{softmax}\!\left(
+\frac{z_{s,t}(x)-\log w_t}{T_{s,t}}
+\right).
 $$
 
 Predicted probabilities were calibrated using temperatures selected on the validation set and adjusted for class weighting during training. Because these adjustments can change the predicted response category, the reported Macro F1 scores reflect model performance before calibration.
